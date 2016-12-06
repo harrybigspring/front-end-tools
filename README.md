@@ -2,6 +2,8 @@
 A collection of front-end tools
 
 --
+## Reusable Templates
+* Signup form
 
 ## Animation
 * [AOS](https://github.com/michalsnik/aos) - Animate on scroll library
